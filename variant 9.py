@@ -47,7 +47,7 @@ class Boss(Character):
         return super()._str_() + f", Special Ability={self.special_ability}"
 
 
-# Example usage:
+
 weak_enemy = Enemy(health_points=50, stamina_points=30, damage=5, speed=10)
 boss = Boss(health_points=200, stamina_points=100, damage=20, special_ability="Fireball")
 
