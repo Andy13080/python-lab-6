@@ -57,4 +57,4 @@ weak_enemy.calculate_hits_to_defeat(opponent_damage=15)
 
 print("\n" + str(boss))
 boss.calculate_hits_before_stamina_exhausts()
-boss.calculate_hits_to_defeat(opponent_damage=15)
+boss.calculate_hits_to_defeat(opponent_damage=15S
