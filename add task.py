@@ -16,4 +16,4 @@ p1 = Point(10, 8)
 p2 = Point(15, 5)
 
 result = p1 + p2
-print(result)
+print(result).
